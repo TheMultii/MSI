@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "miasta_simple/1.0.0": {
+        "runtime": {
+          "miasta_simple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "miasta_simple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
